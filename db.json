@@ -1,0 +1,60 @@
+{
+  "manifests": [
+    {
+    "id": 517577000002,
+    "name": "Bana Oats",
+    "category": "Breakfast"
+    },
+    {
+    "id": 517577000003,
+    "title": "Crunchy sweet potato muffin",
+    "category": "Breakfast"
+    },
+    {
+    "id": 517577000004,
+    "title": "Peanut butter aots",
+    "category": "Breakfast"
+    }
+  ],
+  "clients": [
+    {
+    "id": 1,
+    "description": "Best egg and cheese combination",
+    "image": ""
+    },
+    {
+    "id": 2,
+    "description": "Best egg muffins ever crafted in a stove",
+    "image": ""
+    }
+  ],
+  "manifestProducts": [
+    {
+    "id": 1,
+    "manifetsNumber": "517577000002",
+    "name": "12m industrial hose pipes",
+    "quantity": 24
+    },
+    {
+    "id": 2,
+    "manifetsNumber": "517577000002",
+    "name": "2cm thick iron bars",
+    "quantity": 5
+    },
+    {
+    "id": 3,
+    "manifetsNumber": "517577000002",
+    "name": "Pipe lining bi-welded lorian brackets",
+    "quantity": 70
+    },
+    {
+    "id": 4,
+    "manifetsNumber": "517577000002",
+    "name": "12m industrial hose pipes",
+    "quantity": 8
+    }
+  ],
+  "profile": {
+    "name": "Chef"
+  }
+}
