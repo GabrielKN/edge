@@ -30,25 +30,25 @@
   ],
   "manifestProducts": [
     {
-    "id": 1,
+    "barCode": 10020034567,
     "manifetsNumber": "517577000002",
     "name": "12m industrial hose pipes",
     "quantity": 24
     },
     {
-    "id": 2,
+    "barCode": 20020034567,
     "manifetsNumber": "517577000002",
     "name": "2cm thick iron bars",
     "quantity": 5
     },
     {
-    "id": 3,
+    "barCode": 30020034567,
     "manifetsNumber": "517577000002",
     "name": "Pipe lining bi-welded lorian brackets",
     "quantity": 70
     },
     {
-    "id": 4,
+    "barCode": 40020034567,
     "manifetsNumber": "517577000002",
     "name": "12m industrial hose pipes",
     "quantity": 8
