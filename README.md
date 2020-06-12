@@ -2,4 +2,4 @@
 
 Mocked REST API
 
-Serve: https://my-json-server.typicode.com/GabrielKN/leadingEdgeJsonData
+Serve: https://my-json-server.typicode.com/GabrielKN/edge
