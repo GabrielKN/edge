@@ -33,24 +33,28 @@
     "barCode": 6001374033742,
     "manifetsNumber": "517577000002",
     "name": "12m industrial hose pipes",
+    "actualProduct": "clereGabes",
     "quantity": 24
     },
     {
-    "barCode": 20020034567,
+    "barCode": 6001374081491,
     "manifetsNumber": "517577000002",
     "name": "2cm thick iron bars",
+    "actualProduct": "clereJunior",
     "quantity": 5
     },
     {
-    "barCode": 30020034567,
+    "barCode": 6291107812588,
     "manifetsNumber": "517577000002",
     "name": "Pipe lining bi-welded lorian brackets",
+    "actualProduct": "Sanitizer",
     "quantity": 70
     },
     {
-    "barCode": 40020034567,
+    "barCode": 9780199115235,
     "manifetsNumber": "517577000002",
     "name": "12m industrial hose pipes",
+    "actualProduct": "dictionary",
     "quantity": 8
     }
   ],
