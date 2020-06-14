@@ -40,6 +40,14 @@
     "manifetsNumber": "517577000002",
     "name": "12m industrial hose pipes",
     "actualProduct": "clereGabes",
+    "customer": {
+      "account": "CC00121212",
+      "name": "CompanyA",
+      "townCity": "Gobabis",
+      "latitude": "-22.450",
+      "longitude": "18.967",
+      "street": "StreetA"
+    }
     "quantity": 24
     },
     {
@@ -47,6 +55,14 @@
     "manifetsNumber": "517577000002",
     "name": "2cm thick iron bars",
     "actualProduct": "clereJunior",
+    "customer": {
+      "account": "CC00321212",
+      "name": "CompanyB",
+      "townCity": "Tsumeb",
+      "latitude": "-19.23333",
+      "longitude": "17.71667",
+      "street": "StreetB"
+    }
     "quantity": 5
     },
     {
@@ -54,6 +70,14 @@
     "manifetsNumber": "517577000002",
     "name": "Pipe lining bi-welded lorian brackets",
     "actualProduct": "Sanitizer",
+    "customer": {
+      "account": "CC00121212",
+      "name": "CompanyA",
+      "townCity": "Gobabis",
+      "latitude": "-22.450",
+      "longitude": "18.967",
+      "street": "StreetA"
+    }
     "quantity": 70
     },
     {
@@ -61,6 +85,14 @@
     "manifetsNumber": "517577000002",
     "name": "12m industrial hose pipes",
     "actualProduct": "dictionary",
+    "customer": {
+      "account": "CC00321212",
+      "name": "CompanyB",
+      "townCity": "Tsumeb",
+      "latitude": "-19.23333",
+      "longitude": "17.71667",
+      "street": "StreetB"
+    }
     "quantity": 8
     }
   ],
