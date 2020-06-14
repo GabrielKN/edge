@@ -16,17 +16,23 @@
     "category": "Breakfast"
     }
   ],
-  "clients": [
+  "customer": [
     {
-    "id": 1,
-    "description": "Best egg and cheese combination",
-    "image": ""
+    "account": "CC00121212",
+    "name": "CompanyA",
+    "townCity": "Gobabis",
+    "latitude": "-22.450",
+    "longitude": "18.967",
+    "street": "StreetA"
     },
     {
-    "id": 2,
-    "description": "Best egg muffins ever crafted in a stove",
-    "image": ""
-    }
+    "account": "CC00321212",
+    "name": "CompanyB",
+    "townCity": "Tsumeb",
+    "latitude": "-19.23333",
+    "longitude": "17.71667",
+    "street": "StreetA"
+    },
   ],
   "manifestProducts": [
     {
